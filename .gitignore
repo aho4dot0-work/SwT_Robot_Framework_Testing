@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+venv/
+
+# Robot Framework result files and reports
+results/
+output.xml
+log.html
+report.html
+
+# Browser / Playwright diagnostic output
+playwright-log.txt
+browser/traces/
