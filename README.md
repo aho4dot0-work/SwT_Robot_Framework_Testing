@@ -105,7 +105,7 @@ Mở đường dẫn giao diện của ứng dụng kiểm thử để xác nh�
 robot --outputdir results tests/ui/smoke/browser_smoke.robot
 ```
 
-Bài `browser_smoke.robot` trong bộ khung ban đầu mở `about:blank` và kiểm tra URL. Nó chỉ xác minh quá trình khởi tạo và vòng đời Browser Library, **chưa kiểm thử chức năng của Simple Online Shop**.
+Bài `browser_smoke.robot` trong bộ khung ban đầu mở `about:blank` và kiểm tra URL. Nó chỉ xác minh quá trình khởi tạo và vòng đời Browser Library, **chưa kiểm thử chức năng của ứng dụng**.
 
 ### 5.2. Chạy các test giao diện trong repository
 
